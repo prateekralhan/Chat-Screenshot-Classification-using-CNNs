@@ -1,4 +1,5 @@
-# Chat-Screenshot-Classification-using-CNNs [![Project Status: Inactive](https://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#inactive)
+# Chat-Screenshot-Classification-using-CNNs [![Project Status: Inactive](https://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#inactive) [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
+
 Many of my friends send me a lot of chat screenshots. Gradually, my phone gallery becomes cluttered with them. So, I thought that let's try to make a model which can separate the chat screenshots from other images. Thus, I have designed this Simple CNN architecture to predict whether any input image is a chat screenshot or a normal image. The input layer of the CNN will be an image and the output layer will contain only one neuron telling us if the input image is a normal image or a chat screenshot.
 
 ## Data Collection:
